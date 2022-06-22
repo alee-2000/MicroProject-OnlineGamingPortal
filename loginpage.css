@@ -1,0 +1,93 @@
+h1 { font-family: 'Rokkitt', serif; 
+    color:  rgba(221, 162, 162, 0.877);}
+h3 { font-family: 'Rokkitt', serif;
+        text-align: center; 
+        font-size: 16px;
+        color: #e90c0c;}
+body {
+  background-image: url('game7.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.container {
+  width: 66px;;
+  min-width: 850px;
+  top: 20%;
+}
+.class1 {
+  float: center;
+  width: 47%;
+  margin-right:1%;
+  margin-left: auto;
+ 
+  
+}
+
+.login {
+  border-style: solid;
+  border-color: rgba(139, 3, 3, 0.877); 
+  border-width:5px;
+  border-radius:50px;
+  background-color: #444444;
+  text-align: center;
+  box-shadow: 0 0 20px #000;
+}
+.login h1 {
+  
+  font-size: 36px;
+  padding: 30px;
+  background-color: #d25555;
+}
+
+a{
+  text-decoration: none;
+  font-size: 14px;
+  color: #ccc;
+  margin-bottom:15px;;
+}
+#password,#uname{
+  margin-bottom: 15px;
+  padding: 10px 5px;
+  width: 80%;
+  background-color: #ccc;
+  border: none;
+  text-align: center;
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: #333;
+}
+
+button {
+  color:  rgba(221, 162, 162, 0.877);
+  background-color: #d25555;
+  border: none;
+  font-family: 'Rokkitt', serif;
+  font-size: 24px;
+  margin-top: 15px;
+  margin-bottom:15px;;
+  width: 40%;
+}
+button:hover {
+  background-color: #A64141;
+  cursor: pointer;
+  color: #f4f4f4;
+}
+table{
+  border-style: solid;
+  border-width:1px;
+  margin-left: auto;
+  margin-right: auto;
+}
+table,th,td{
+  padding:10px;
+}
+td{
+  border:1px solid black;
+}
+th,td{
+  font-weight:bold;
+  border:1px solid black;
+}

@@ -1,0 +1,50 @@
+
+  body{
+    background-image:url('game7.jpg');
+    background-repeat:no-repeat;
+    background-position:left-bottom;
+    background-size:100% 100%;
+    margin:0;
+  }
+  h2{
+    color:white;
+    /* margin-top:80px; */
+    font-family:lato;
+    font-size:30px;
+    text-align:left;
+    /* padding-left:45%; */
+  }
+  h3{
+    color:white;
+    /* margin-top:80px; */
+    font-family:lato;
+    font-size:30px;
+    text-align: center;
+    /* padding-top:5px; */
+    /* padding-left:45%; */
+  }
+  table{
+    font-family:Lato;
+    /* border-collapse:collapse; */
+    width:30%;
+    text-align:center;
+    margin-top:40px;
+    border-style: solid;
+    border-width:1px;
+    margin-left:450px;
+    margin-right: auto;
+  }
+  th{
+    font-size:20px;
+    text-align:left;
+    padding-top:8px;
+    color:white;
+    background-color:rgba(139, 3, 3, 0.877);
+  }
+  td{
+    font-size:15px;
+    color:rgba(139, 3, 3, 0.877);
+    text-align:left;
+    padding:8px;
+    background-color:rgb(241, 223, 163);
+  }
